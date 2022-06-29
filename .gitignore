@@ -1,0 +1,9 @@
+
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+.env
+/dist
+/node_modules
